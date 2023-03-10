@@ -49,7 +49,7 @@ class _AnimationsCubesWidgetState extends State<AnimationsCubesWidget>
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      backgroundColor: Colors.deepPurple[400],
+      backgroundColor: Colors.deepPurple[200],
     );
   }
 }
