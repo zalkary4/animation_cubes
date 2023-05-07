@@ -60,7 +60,7 @@ class _AnimationsCubesWidgetState extends State<AnimationsCubesWidget>
                 width: 225,
                 height: 225,
                 decoration: BoxDecoration(
-                  color: Colors.deepPurple[400],
+                  color: const Color.fromARGB(255, 114, 64, 199),
                   borderRadius: BorderRadius.circular(_radiusAnimation.value),
                   boxShadow: [
                     BoxShadow(
